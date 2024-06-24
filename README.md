@@ -29,7 +29,7 @@
   </a>
   &nbsp
   <a href="https://github.com/SSUK-H">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSUK-H&layout=compact&langs_count=8&card_width=466&exclude_repo=SSUK-H.github.io&theme=material-palenight" />   
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSUK-H&layout=compact&langs_count=8&card_width=466&theme=material-palenight" />   
   </a>
 </div>
 
