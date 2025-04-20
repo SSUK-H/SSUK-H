@@ -13,7 +13,7 @@
   <br/>
 
   <a href="https://github.com/SSUK-H">
-    <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=40&pause=1000&color=8E4FD3FF&random=false&width=600&height=70&lines=Welcome+to+SSuk's+Github+👊" alt="SSuk's Github" />
+    <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=40&pause=1000&color=8E4FD3&width=600&height=70&lines=Welcome+to+SSuk's+Github+%F0%9F%91%8A" alt="SSuk's Github" />
   </a>
 </div>
 
